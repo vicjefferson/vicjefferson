@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&color=F71AD4&center=true&width=500&height=70&lines=Hi+there!+👋🏼;I'm+Victor+Jefferson!;" />
 </h1>
 
-<h3 align="center">A Student software developer from Brazil 🇧🇷</h3>
+<h3 align="center">A software developer student from Brazil 🇧🇷</h3>
 
 <br/>
   <!-- + head + -->
