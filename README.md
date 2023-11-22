@@ -49,13 +49,4 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vicjefferson&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/vicjefferson/vicjefferson/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
